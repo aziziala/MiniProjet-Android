@@ -1,0 +1,19 @@
+{
+  "name": "androidminiproject",
+  "version": "1.0.0",
+  "description": "API for mini project android (login and register..)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yafet Shil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.17.1",
+    "uuid": "^3.3.3"
+  }
+}
